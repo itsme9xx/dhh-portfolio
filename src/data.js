@@ -10,6 +10,15 @@ export const projects = [
   },
   {
     id: 2,
+    img: "https://iili.io/HXqcSp4.jpg",
+    title: "Website Music",
+    description: `This project is made with all my love <3 `,
+    tags: ["ReactJs", "Redux", "Tailwind ", "JavaScript"],
+    liveLink: "https://dhh-zingmp3.vercel.app/",
+    ghLink: "",
+  },
+  {
+    id: 3,
     img: "https://iili.io/yTmtrF.md.png",
     title: "Website Comic",
     description: `This project i just use HTML, CSS, Bootstrap, JS to coding`,
@@ -18,7 +27,7 @@ export const projects = [
     ghLink: "",
   },
   {
-    id: 3,
+    id: 4,
     img: "https://iili.io/yxi8ts.md.png",
     title: "Portfolio Website",
     description: `This project is the very first project I built after breaking out of the tutorial hell. I got inspired by many great developers I have learned from Youtube, Udemy & Freecodecamp.`,
