@@ -36,7 +36,7 @@ const About = () => {
             </div>
             <div>
               <p>8/2022-11/2022</p>
-              <h4>Working Develop Web at GPT </h4>
+              <h4>Working Develop Web at RaceFi before but retired </h4>
             </div>
           </div>
         </div>
